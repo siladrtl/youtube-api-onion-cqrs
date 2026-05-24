@@ -1,1 +1,1 @@
-# YoutubeApiSln
+İzlediğim eğitim videosuna ait çalışmadır.
